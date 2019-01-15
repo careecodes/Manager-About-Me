@@ -13,7 +13,7 @@
 
 ### What I expect from you -
 * Treat others with dignity and respect. _Don’t be shitty._
-* Be solution-oriented and proactive when it comes to our codebase health and UX. _Get shit done._
+* Be solution-oriented and proactive when it comes to our engineering processes, codebase, and product. _Get shit done._
 * Bring your best effort every day. _Give a shit._
 
 ### Come to me when...
