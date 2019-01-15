@@ -24,9 +24,10 @@
 
 ## How I Work
 ### Developer autonomy and ownership
-* I like staying out of the engineers’ way and letting them use their best judgement on things. 
-* Sometimes I’ll drop into a Product meeting with your team and ask questions or for help in solving a problem like timelines, requirements, etc.
-* Sometimes I’ll ask questions meant to challenge assumptions or encourage some debate.
+* I like staying out of the engineers’ way and letting them use their best judgement on things. I think developers are domain experts and should have ownership over the way that we execute engineering projects.
+* Sometimes I’ll drop into a Product meeting with your team and ask questions or for help in solving a problem like timelines, requirements, etc. Sometimes I’ll ask questions meant to challenge assumptions or encourage some debate, but not to tell you how to write something.
+* My main priority is making sure you're working on things that are meaningful to both you and the company, and that you feel empowered to do that to the best of your abilities.
+
 
 ### Purposeful, productive meetings.
 * I tend to get kind of impatient if I feel like a conversation isn’t going anywhere.
@@ -38,12 +39,11 @@
 
 ### Ongoing Improvements
 * Increasing your visibility into my day and work. (Oct 2018)
-    * I will get better at keeping my Slack status up to date
-    * I will attend standups periodically and talk to you about what I’m working on.
-    * Most meetings on my calendar are public, please feel free to calendar stalk me!
-* Getting to the point faster when delivering disappointing news. Rip off the bandaid. (Dec 2018)
-* Bridging communication between upper management and engineers. (Nov 2018)
-* Encouraging brevity during meetings by having a heavier hand in meeting facilitation - especially meetings between engineers and designers. (Oct 2018)
+    * Get better at keeping my Slack status up to date
+    * Attend standups periodically and talk to you about what I’m working on.
+* Get to the point faster when delivering disappointing news. Rip off the bandaid. (Dec 2018)
+* Bridge communication between upper management and engineers. (Nov 2018)
+* Encourage brevity during meetings by having a heavier hand in meeting facilitation - especially meetings between engineers and designers. (Oct 2018)
 * [Your feedback here]
 
 
