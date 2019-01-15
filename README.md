@@ -1,4 +1,4 @@
-# Manager Intro
+# Manager Introduction & About Me
 
 ## Our Baseline 
 ### Assumptions - 
