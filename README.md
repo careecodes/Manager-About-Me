@@ -49,7 +49,7 @@
 
 ## Misc. About Me
 ### Work Stuff:
-* I’m a former developer, and most of my experience is on the front end. I still do side projects sometimes. My Codepen is mostly weird animation experiments.
+* I’m a former developer, and most of my experience is on the front end. I still do side projects sometimes. My Codepen is mostly CSS animation experiments and debugging some random JS, feel free to find me on there @careecodes.
 * I have always wanted to work remotely. Creative Market was on my list of “dream companies” for several years before I was hired.
 * I like to write and have a blog: https://blog.caree.codes/
 
